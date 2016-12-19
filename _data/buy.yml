@@ -187,6 +187,12 @@
    logo: coinsth.png
    url:  https://coins.co.th/en/
 
+- exchange: Bitxoxo
+   description: "Bitxoxo is Fastest Bitcoin Exchange in India. Bitxoxo is your one-stop destination for buy/sell/gift bitcoins in India."
+   countries: asia
+   logo: bitxoxo.png
+   url: https://www.bitxoxo.com/
+
 ############## Australia ##############
    
  - exchange: BTC Markets
